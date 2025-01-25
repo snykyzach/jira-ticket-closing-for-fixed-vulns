@@ -1,0 +1,103 @@
+# Environment and configuration files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build and output directories
+dist/
+build/
+coverage/
+public/
+out/
+.temp/
+
+# Environment and configuration files
+.env
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Test coverage
+coverage/
+
+# Package manager files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Optional npm cache directory
+.npm/
+
+# Lint/format cache
+.eslintcache
+.stylelintcache
+.prettiercache
+
+# Temp files
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Local configuration files
+*.local
+*.config
+
+# Logs from npm scripts
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Next.js build and cache (if applicable)
+.next/
+
+# Nuxt.js build and cache (if applicable)
+.nuxt/
+
+# Storybook build outputs
+storybook-static/
+
+# Typescript build files
+*.tsbuildinfo
+
+# JetBrains IDE config
+.idea/
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Mac specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
